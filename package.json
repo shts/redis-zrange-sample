@@ -1,0 +1,9 @@
+{
+  "name": "redis-sorted-set",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ioredis": "^4.22.0"
+  }
+}
